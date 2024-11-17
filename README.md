@@ -1,2 +1,2 @@
 # Practicas_Rob_Mov
-El blog puede encontrarse en el apartado Wiki
+Puede verse la tematica y demostracion de las practicas en el apartado wiki
